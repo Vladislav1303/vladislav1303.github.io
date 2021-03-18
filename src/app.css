@@ -1,11 +1,9 @@
 :root {
-    --bingo-bg-dark: #299fff;
-    --bingo-bg: #5AB5FF;
-    --bingo-bright: #FFFFFF;
-    --bingo-light-extra: #e7f4fe;
-    --bingo-light: #b8defd;
-    --bingo-alter: #1cb14d;
+    --bingo-bg-dark: rgb(255, 255, 255);
+    --bingo-bright: linear-gradient(135deg, rgb(247, 247, 247)  0%, rgb(206, 206, 206) 100%);
+    --bingo-alter: rgb(4, 133, 0)  ;
 }
+
 
 .PanelHeader__vkt {
     font-size: 18px;
@@ -21,10 +19,18 @@
 
 .PanelHeader__in {
     background: var(--bingo-bg-dark) !important;
-    box-shadow: 0 3px 9px 0 rgba(0, 0, 0, 0.10);
+    box-shadow: 0 0px 0px 0 rgba(0, 0, 0, 0.10);
 }
 
 
+
+.Div__vkt_share button {
+    margin-top: 5px;
+    border: 3px solid var(--bingo-light);
+    color: var(--bingo-bg-dark);
+    background: var(--bingo-bright);
+    box-shadow: 0 3px 9px 0 rgba(0, 0, 0, 0.10);
+}
 
 .Div__vkt_reset button {
     opacity: 0.8;
