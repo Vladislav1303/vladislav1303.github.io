@@ -1,24 +1,24 @@
 {
   "files": {
-    "main.css": "/static/css/main.0da4dfa5.chunk.css",
-    "main.js": "/static/js/main.c7f4302b.chunk.js",
-    "main.js.map": "/static/js/main.c7f4302b.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.e38bee18.js",
-    "runtime-main.js.map": "/static/js/runtime-main.e38bee18.js.map",
-    "static/css/2.2b6e6bea.chunk.css": "/static/css/2.2b6e6bea.chunk.css",
-    "static/js/2.b74f356c.chunk.js": "/static/js/2.b74f356c.chunk.js",
-    "static/js/2.b74f356c.chunk.js.map": "/static/js/2.b74f356c.chunk.js.map",
-    "index.html": "/index.html",
-    "static/css/2.2b6e6bea.chunk.css.map": "/static/css/2.2b6e6bea.chunk.css.map",
-    "static/css/main.0da4dfa5.chunk.css.map": "/static/css/main.0da4dfa5.chunk.css.map",
-    "static/js/2.b74f356c.chunk.js.LICENSE.txt": "/static/js/2.b74f356c.chunk.js.LICENSE.txt",
-    "static/media/persik.ef1d1742.png": "/static/media/persik.ef1d1742.png"
+    "main.css": "/vladislav1314.github.io/static/css/main.0da4dfa5.chunk.css",
+    "main.js": "/vladislav1314.github.io/static/js/main.b435332f.chunk.js",
+    "main.js.map": "/vladislav1314.github.io/static/js/main.b435332f.chunk.js.map",
+    "runtime-main.js": "/vladislav1314.github.io/static/js/runtime-main.9efa3614.js",
+    "runtime-main.js.map": "/vladislav1314.github.io/static/js/runtime-main.9efa3614.js.map",
+    "static/css/2.8a938937.chunk.css": "/vladislav1314.github.io/static/css/2.8a938937.chunk.css",
+    "static/js/2.a37b10bb.chunk.js": "/vladislav1314.github.io/static/js/2.a37b10bb.chunk.js",
+    "static/js/2.a37b10bb.chunk.js.map": "/vladislav1314.github.io/static/js/2.a37b10bb.chunk.js.map",
+    "index.html": "/vladislav1314.github.io/index.html",
+    "static/css/2.8a938937.chunk.css.map": "/vladislav1314.github.io/static/css/2.8a938937.chunk.css.map",
+    "static/css/main.0da4dfa5.chunk.css.map": "/vladislav1314.github.io/static/css/main.0da4dfa5.chunk.css.map",
+    "static/js/2.a37b10bb.chunk.js.LICENSE.txt": "/vladislav1314.github.io/static/js/2.a37b10bb.chunk.js.LICENSE.txt",
+    "static/media/persik.ef1d1742.png": "/vladislav1314.github.io/static/media/persik.ef1d1742.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.e38bee18.js",
-    "static/css/2.2b6e6bea.chunk.css",
-    "static/js/2.b74f356c.chunk.js",
+    "static/js/runtime-main.9efa3614.js",
+    "static/css/2.8a938937.chunk.css",
+    "static/js/2.a37b10bb.chunk.js",
     "static/css/main.0da4dfa5.chunk.css",
-    "static/js/main.c7f4302b.chunk.js"
+    "static/js/main.b435332f.chunk.js"
   ]
 }
